@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BadCactus634 (www.natmus.net)
+- 👀 I’m interested in Arduino, Tech and Electronics
+- 🌱 I’m currently learning Networking (Juniper), Java and Linux
+- 📫 How to reach me: stefanorossi634@gmail.com or stefano.rossi@natmus.net
