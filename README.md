@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BadCactus634 aka HackerSte (www.natmus.net)
+- 👋 Hi, I’m @BadCactus634 (www.natmus.net)
 - 👀 I’m interested in IT, Electronics and Engineering
 - 🌱 I’m currently learning Networking (Juniper), Java and Linux (LPIC-1)
 - 📫 How to reach me: stefanorossi634@gmail.com or stefano.rossi@natmus.net
