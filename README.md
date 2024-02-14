@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @BadCactus634 (www.natmus.net)
-- 👀 I’m interested in IT, Electronics and Engineering
-- 🌱 I’m currently learning Networking (Juniper), Java and Linux (LPIC-1)
+- 👀 I’m interested in IT, Electronics and Radios!
 - 📫 How to reach me: stefanorossi634@gmail.com or stefano.rossi@natmus.net
