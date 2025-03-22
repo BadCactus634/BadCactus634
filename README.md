@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @BadCactus634 (www.natmus.net)
-- 👀 I’m interested in IT, Electronics and Radios!
-- 📫 How to reach me: stefano.natmus@gmail.com or stefano.rossi@natmus.net
+- 👋 Hi, I’m @BadCactus634
+- 👀 I’m interested in IT, Electronics and Radios.  Take a look at my website --->  www.natmus.net  <---
+- 📫 How to reach me: stefano.rossi@natmus.net
